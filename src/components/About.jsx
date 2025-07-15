@@ -3,6 +3,7 @@ import { assets } from '../assets/assets'
 import { motion } from "motion/react"
 const About = () => {
   return (
+
     <motion.div
            initial={{opacity: 0, x:200}}
            transition={{duration: 1}}
