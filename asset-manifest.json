@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Estate-Web/static/css/main.4e22ff6f.css",
-    "main.js": "/Estate-Web/static/js/main.4ec5143b.js",
+    "main.css": "/Estate-Web/static/css/main.ddd44ad2.css",
+    "main.js": "/Estate-Web/static/js/main.34693838.js",
     "static/js/453.fa88c9c5.chunk.js": "/Estate-Web/static/js/453.fa88c9c5.chunk.js",
     "static/media/header_img.png": "/Estate-Web/static/media/header_img.46dc24e9bfa49b075938.png",
     "static/media/brand_img.png": "/Estate-Web/static/media/brand_img.e2eb95b624915fbff01e.png",
@@ -22,12 +22,12 @@
     "static/media/menu_icon.svg": "/Estate-Web/static/media/menu_icon.f6a63a18e3c68d807e50b1037f3e3555.svg",
     "static/media/left_arrow.svg": "/Estate-Web/static/media/left_arrow.38c61a9cb0111cd78d4c52e815708ee8.svg",
     "static/media/right_arrow.svg": "/Estate-Web/static/media/right_arrow.3e841722465c16e709b7d522054f68e5.svg",
-    "main.4e22ff6f.css.map": "/Estate-Web/static/css/main.4e22ff6f.css.map",
-    "main.4ec5143b.js.map": "/Estate-Web/static/js/main.4ec5143b.js.map",
+    "main.ddd44ad2.css.map": "/Estate-Web/static/css/main.ddd44ad2.css.map",
+    "main.34693838.js.map": "/Estate-Web/static/js/main.34693838.js.map",
     "453.fa88c9c5.chunk.js.map": "/Estate-Web/static/js/453.fa88c9c5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e22ff6f.css",
-    "static/js/main.4ec5143b.js"
+    "static/css/main.ddd44ad2.css",
+    "static/js/main.34693838.js"
   ]
 }
